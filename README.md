@@ -1,6 +1,6 @@
 # Hi everyone, I'm Alex aka Alexenon/Hazzardy 😏
 
-### I'm a Beginner Developer that loves to study 💡🖥
+### I'm a Beginner Developer that loves to study 🖥💡
 
 
 ### Connect with me:
