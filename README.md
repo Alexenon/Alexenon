@@ -1,4 +1,4 @@
-# Hi everyone, I'm Alex aka Alexenon/Hazzardy 😏
+# Hi everyone, I'm Alex 👾
 
 ### I'm a Beginner Developer that loves to study 🖥💡
 
