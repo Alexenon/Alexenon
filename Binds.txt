@@ -1,0 +1,11 @@
+bind "F1" "ak47; m4a1; primammo; defuser; vesthelm"
+
+bind "F2" "deagle; secammo; vest"
+
+bind "F3" "awp; primammo; vest"
+
+bind "F4" "primammo; flash; flash; sgren; hegren"
+
+bind "F5" "famas; galil; primammo; defuser; vesthelm"
+
+bind "F9" "secammo; vest"

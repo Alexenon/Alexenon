@@ -1,0 +1,148 @@
+=====================================[ 11.01.2020 ]=======================================
+
+- De citit despre Matrice in Python                [ Yes ]
+
+- De scris un program de 20 randuri Python         [ Yes ]
+
+- De mai adaugat cate ceva in program              [ Yes ]
+
+- De facut partea cu insert inceputul              [ No ]    !!!
+
+- De descarcat server Sql                          [ Yes ]
+
+
+======================================[ 12.01.2020 ]======================================
+
+
+- Automatizarea programului initial(inceputul)     [ Yes/No ] ?
+
+- Vizualizarea programului c++                     [ Yes ]
+
+- Rezolvarea problemei                             [ No ] !!!
+
+- De descarcat Oracle                              [ Yes ]
+
+- De descarcat server Oracle                       [ No ] !!!
+
+
+======================================[ 17.01.2020 ]======================================
+
+
+- De facut bara de comanda                         [ Yes ]
+
+- Crearea unui program cu insert Java          	   [ Yes ]
+ 
+- De citit despre Sql                              [ Yes ]
+
+- De adaugat 2-3 functii Sql                       [     ]  
+
+- De vizualizat in python                          [ No  ]
+
+
+======================================[ 20.01.2020 ]======================================
+
+
+- De facut 2-3 probleme java                       [ Yes ]
+
+- De repetat tabele html                           [ Yes ]
+
+- Invatarea Integer in Java                        [ Yes ]
+
+- De vizualizat 1 video tutorial                   [ Yes ]
+
+- De facut 10 min pe site freecodecamp             [ Yes ]       
+
+
+======================================[ 21.01.2020 ]======================================
+
+- De facut 2-3 probleme java                       [ Yes ]
+
+- De invatat functia recursiva                     [ Yes ]
+
+- Vizualizarea programului c++                     [ Yes ]
+
+- De vizualizat 1 video tutorial                   [ Yes ]
+ 
+- De facut 10 min pe site freecodecamp             [ Yes ]
+
+
+======================================[ 22.01.2020 ]======================================
+
+- De facut 2-3 probleme recursive java             [  ]
+
+- De corectat programul "Person"                   [  ]
+
+- De repetat tabele html                  	   [  ] 
+
+- De vizualizat 1 video tutorial                   [  ]
+ 
+- De facut 10 min pe site freecodecamp             [  ]
+
+
+======================================[ 23.01.2020 ]======================================
+
+- De facut 2-3 probleme java      		   [  ]
+
+- De corectat programul "Person"                   [  ]
+
+- De adaugat un tabel in html                      [  ] 
+
+- De vizualizat 1 video tutorial                   [  ]
+ 
+- De facut 10 min pe site freecodecamp             [  ]
+
+
+
+
+- De invatat functia Programare
+getch()
+get
+Scanner
+
+
+- De invatat/repetat html
+
+tabele, main, div, a href, img src, styles
+
+
+
+https://www.youtube.com/watch?v=grEKMHGYyns        [ Lesson 5 finished = 1:12:00 ]
+
+
+
+https://www.youtube.com/playlist?list=PL0lO_mIqDDFUzG5WOCUVmqx4CBW2qIulV
+
+
+
+https://www.youtube.com/playlist?list=PLEvI1OiL1F3ctezdKwvJnQK2f_H8U0HqK
+--BAZA DE DAT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

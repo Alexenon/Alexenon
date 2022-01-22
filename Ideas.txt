@@ -1,0 +1,21 @@
+
+My own Site
+API project
+Web Scraping
+
+
+
+https://github.com/Vlad-code-c/bd-companie-avia
+
+https://www.codepile.net/pile/PNx4eENr
+
+httpswww.javatpoint.comcpp-programs          -- Programe C++
+
+
+
+
+Web Scraping pentru cryptovaluta
+
+
+Program care vede cate cifre de fiecare tip sunt intr-un array 
+[1,2,2,3,3,4] => {[1-1], [2-2], [3-2], [4-1]}
