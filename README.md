@@ -1,7 +1,7 @@
 # Hi everyone, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 I'm a beginner developer that loves to study 🖥💡
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
+- 📝 I regulary write documentation for my code
 - 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently learning java frameworks
 - 💬 Talking is like a breath of fresh air after a long programming session
