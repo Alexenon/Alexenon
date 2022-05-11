@@ -1,5 +1,11 @@
 # Hi everyone, I'm Alex <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+#### This is my codewars account level and points <br>
+[<img align="left" alt="Code Wars Badge" src="https://www.codewars.com/users/AleXeNeoN/badges/large"/>][codewars]
+
+<br><br><br>
+
+
 I'm a beginner developer that loves to study 🖥💡
 - 📝 I regulary write documentation for my code
 - 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
@@ -56,3 +62,4 @@ I'm a beginner developer that loves to study 🖥💡
 [vkcom]: https://vk.com/hazzardy
 [instagram]: https://www.instagram.com/hazzarddy
 [linked-in]: https://www.linkedin.com/in/alex-xenon-14900a22a/
+[codewars]: https://www.codewars.com/users/AleXeNeoN
