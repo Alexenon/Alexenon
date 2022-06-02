@@ -34,7 +34,9 @@ I'm a beginner developer that loves to study 🖥💡
 <hr>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexenon&theme=dark&hide_langs_below=1" />
+<!-- My most used languages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexenon&theme=dark&border_radius=10" />
+
 
 ### What I want to learn in near future:
 
@@ -48,6 +50,9 @@ I'm a beginner developer that loves to study 🖥💡
 <br>
 <hr>
 
+
+<!-- My github stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Alexenon&show_icons=true&theme=github_dark&line_height=30&border_radius=10&hide=stars" />
 
 
 ### Connect with me:
