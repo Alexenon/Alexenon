@@ -33,6 +33,9 @@ I'm a beginner developer that loves to study 🖥💡
 <br>
 <hr>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexenon&theme=dark&hide_langs_below=1" />
+
 ### What I want to learn in near future:
 
 <img align="left" alt="Node.js" title="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
@@ -44,6 +47,8 @@ I'm a beginner developer that loves to study 🖥💡
 
 <br>
 <hr>
+
+
 
 ### Connect with me:
 
