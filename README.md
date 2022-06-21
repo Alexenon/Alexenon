@@ -62,6 +62,61 @@ GO
 CREATE SYNONYM start_hour
 FOR Employers_Schedule.start_work_hour
 GO 
+
+
+
+
+
+
+
+______________________________________
+
+
+
+
+public static void insertAgent(string Nume, string Prenume, string Salariu, string Varsta, string Staj, string Procentaj)
+{
+    using (SqlConnection connection = new SqlConnection(conString))
+    {
+	SqlConnection con = new SqlConnection(conString);
+	con.Open();
+
+	if (con.State == System.Data.ConnectionState.Open)
+	{
+	    string querry = $"INSERT INTO Agenti VALUES ('{Prenume}', '{Nume}', {Salariu}, {Varsta}, {Staj}, {Procentaj})";
+	    SqlCommand cmd = new SqlCommand(querry, con);
+	    cmd.ExecuteNonQuery();
+	}
+    }
+}
+
+private void updateDataGridView(string sqlStatement)
+{
+    try
+    {
+	SqlConnection con = new SqlConnection("Data Source=localhost;Initial Catalog=Test_Database;Integrated Security=True");
+	con.Open();
+
+	/* Add data to DataTable */
+	SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlStatement, con);
+	DataTable dataTable = new DataTable();
+	sqlDataAdapter.Fill(dataTable);
+	dataGridView1.DataSource = dataTable;
+
+	/* Resize dataGridView by columns and rows */
+	dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+	dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+    }
+    catch (Exception err)
+    {
+	MessageBox.Show(err.ToString());
+    }
+}
+
+
+
+
+
 ```
 
 
