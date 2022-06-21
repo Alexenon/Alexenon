@@ -5,6 +5,65 @@
 
 <br><br><br>
 
+```
+USE [MASTER]
+GO
+IF EXISTS (SELECT * FROM sys.databases WHERE NAME='Test_Database')
+BEGIN
+	ALTER DATABASE Test_Database SET SINGLE_USER
+	WITH ROLLBACK IMMEDIATE
+	DROP DATABASE Test_Database
+END
+GO
+
+CREATE DATABASE Test_Database
+GO
+USE Test_Database
+GO
+
+ALTER AUTHORIZATION ON DATABASE :: Test_Database TO SA
+GO
+
+
+ 
+CREATE TYPE Default_String FROM NVARCHAR(20) NOT NULL
+CREATE TYPE Long_String FROM NVARCHAR(500) NOT NULL
+GO
+
+
+CREATE TABLE Users (
+	Id_User INT PRIMARY KEY, 
+	Name Default_String,
+	Age INT DEFAULT 18,
+	Salary INT DEFAULT NULL,
+	UniqueField INT,
+	CHECK(Age >= 18 AND Age <= 120),
+	CHECK(Salary BETWEEN 0 AND 100000),
+	UNIQUE(UniqueField, Age)
+)
+GO
+
+
+CREATE INDEX idx_users ON Users(Id_User, Salary)
+
+
+BACKUP DATABASE Coffee_Time
+	FILE = 'Coffee_Time' 
+	TO DISK = 'Coffee_Time.bak'   
+	WITH FORMAT, 
+	STATS = 10,
+	DESCRIPTION = 'Full backup for Coffee_Time database'
+GO
+
+
+----------------------------
+/* Synonim for start hour */
+----------------------------
+CREATE SYNONYM start_hour
+FOR Employers_Schedule.start_work_hour
+GO 
+```
+
 
 I'm a beginner developer that loves to study 🖥💡
 - 📝 I regulary write documentation for my code
