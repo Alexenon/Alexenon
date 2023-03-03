@@ -72,4 +72,4 @@ I'm a beginner developer that loves to study 🖥💡
 [vkcom]: https://vk.com/hazzardy
 [instagram]: https://www.instagram.com/hazzarddy
 [linked-in]: https://www.linkedin.com/in/alex-xenon-14900a22a/
-[codewars]: https://www.codewars.com/users/AleXeNeoN
+[codewars]: https://www.codewars.com/users/Alexenon
