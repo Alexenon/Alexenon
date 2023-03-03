@@ -61,7 +61,7 @@ I'm a java developer that loves to study 🖥💡
 [<img align="left" alt="Alexenon | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vkcom]
 [<img align="left" alt="Alexenon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Alexenon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked-in]
-[<img align="left" alt="Alexenon | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg/.svg" />][stack-overflow]
+[<img align="left" alt="Alexenon | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
 
 
 
