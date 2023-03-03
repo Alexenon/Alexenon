@@ -6,9 +6,9 @@
 <br><br><br>
 
 
-I'm a beginner developer that loves to study 🖥💡
-- 📝 I regulary write documentation for my code
-- 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
+I'm a java developer that loves to study 🖥💡
+- 📝 I regularly write documentation for my code
+- 💻 I use daily **.js**, **.java**, **.py**, **.sql**
 - 📖 I am currently learning java frameworks
 - 💬 Talking is like a breath of fresh air after a long programming session
 - 👯 We can connect to play some games of Chess ♟
