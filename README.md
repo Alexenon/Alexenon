@@ -1,7 +1,7 @@
 # Hi everyone, I'm Alex <img height="30px" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 
 #### This is my codewars account level and points <br>
-[<img align="left" alt="Code Wars Badge" src="https://www.codewars.com/users/AleXeNeoN/badges/large"/>][codewars]
+[<img align="left" alt="Code Wars Badge" src="https://www.codewars.com/users/Alexenon"/>][codewars]
 
 <br><br><br>
 
