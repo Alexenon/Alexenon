@@ -61,6 +61,7 @@ I'm a java developer that loves to study 🖥💡
 [<img align="left" alt="Alexenon | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vkcom]
 [<img align="left" alt="Alexenon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Alexenon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked-in]
+[<img align="left" alt="Alexenon | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg/.svg" />][stack-overflow]
 
 
 
@@ -73,3 +74,4 @@ I'm a java developer that loves to study 🖥💡
 [instagram]: https://www.instagram.com/hazzarddy
 [linked-in]: https://www.linkedin.com/in/alex-xenon-14900a22a/
 [codewars]: https://www.codewars.com/users/Alexenon
+[stack-overflow]: https://stackoverflow.com/users/17480047/alexenon
