@@ -1,7 +1,7 @@
 # Hi everyone, I'm Alex <img height="30px" width="30px" target="_blank" rel="noopener noreferrer" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 
 #### This is my codewars account level and points <br>
-[<img align="left" alt="Code Wars Badge" target="_blank" rel="noopener noreferrer" src="https://www.codewars.com/users/Alexenon/badges/large"/>][codewars]
+[<img align="left" alt="Code Wars Badge" src="https://www.codewars.com/users/Alexenon/badges/large"/>][codewars]
 
 <br><br><br>
 
@@ -61,7 +61,7 @@ I'm a java developer that loves to study 🖥💡
 [<img align="left" alt="Alexenon | Vk" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vkcom]
 [<img align="left" alt="Alexenon | Instagram" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Alexenon | LinkedIn" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked-in]
-[<img align="left" alt="Alexenon | StackOverflow" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
+[<img align="left" alt="Alexenon | StackOverflow" width="22px" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack-overflow]
 
 
 
