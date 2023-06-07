@@ -11,7 +11,7 @@ I'm a java developer that loves to study 🖥💡
 - 💻 I use daily **.js**, **.java**, **.py**, **.sql**
 - 📖 I am currently learning java frameworks
 - 💬 Talking is like a breath of fresh air after a long programming session
-- 👯 We can connect to play some games of Chess ♟
+- 👯 We can connect to play some games of [Chess] ♟ 
 
 <br>
 
@@ -71,7 +71,8 @@ I'm a java developer that loves to study 🖥💡
 
 <!-- Links to my social media -->
 [vkcom]: https://vk.com/hazzardy
+[chess]: https://www.chess.com/member/alexenon
 [instagram]: https://www.instagram.com/hazzarddy
-[linked-in]: https://www.linkedin.com/in/alex-xenon-14900a22a/
 [codewars]: https://www.codewars.com/users/Alexenon
+[linked-in]: https://www.linkedin.com/in/alex-xenon-14900a22a/
 [stack-overflow]: https://stackoverflow.com/users/17480047/alexenon
